@@ -2,7 +2,7 @@
 Taken Spring 2024
 
 # Course Description
-Honors Interdisciplinary Signature Seminar Course
+Honors Interdisciplinary Research & Signature Seminar Course
 
 "Psychiatry grapples with complex challenges that arise from the intricacies of the human mind, requiring innovative computational analysis techniques to better understand and address these issues. This course will focus on ways in which AI can be used to understand the etiology of psychiatric conditions and predict their onset."
 
